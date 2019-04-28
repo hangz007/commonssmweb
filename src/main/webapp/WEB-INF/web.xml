@@ -27,7 +27,8 @@
     <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
     <init-param>
       <!--要使用的字符集，一般我们使用UTF-8(保险起见UTF-8最好)-->
-      <param-name>encoding</param-name> <param-value>UTF-8</param-value>
+      <param-name>encoding</param-name>
+      <param-value>UTF-8</param-value>
     </init-param>
   </filter>
 
